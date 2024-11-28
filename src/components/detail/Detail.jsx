@@ -3,8 +3,7 @@ import './detail.css'
 const Detail = () => {
   return (
     <div className='details'>
-            <h1>chat</h1>
-
+            chat Details
     </div>
   )
 }
